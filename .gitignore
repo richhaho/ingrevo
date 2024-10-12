@@ -1,0 +1,4 @@
+writable/logs/
+writable/session/
+app/Config/App.php
+.env
